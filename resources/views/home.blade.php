@@ -13,7 +13,22 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
+                    <!-- anil code -->
+                   <table class="table">
+                       <tr>
+                           <th>Name</th>
+                           <th>Address</th>
+                       </tr>
+                       <tr>
+                           <td>Anil Khatiwada</td>
+                           <td>Dillibazar</td>
+                       </tr>
+                       <tr>
+                           <td>Sijan Gimire</td>
+                           <td>Maitidevi</td>
+                       </tr>
+                   </table>
+                    <!-- anil code end -->
                     You are logged in!
                 </div>
             </div>
