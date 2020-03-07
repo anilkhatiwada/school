@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    DEMO
+                    ANIL KHATIWADA
                 </div>
 
                 <div class="links">
